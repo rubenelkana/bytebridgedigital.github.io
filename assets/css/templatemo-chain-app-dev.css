@@ -127,7 +127,7 @@ p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 300;
-  color: #afafaf;
+  color: #212529;
 }
 
 img {
@@ -1984,7 +1984,7 @@ responsive
     margin-right: 0;
   }
   .main-banner .left-content p {
-    color: #afafaf;
+    color: #2A2A2A;
     margin-right: 0;
   }
   .main-banner .left-content .white-button a {
@@ -2328,7 +2328,8 @@ form#contact textarea::placeholder {
 
 form#contact button {
   display: inline-block;
-  background-color: #33ccc5;
+  background: rgb(19,175,240);
+  background: linear-gradient(105deg, rgba(91,104,235,1) 0%, rgba(40,225,253,1) 100%);
   font-size: 15px;
   font-weight: 400;
   color: #fff;
