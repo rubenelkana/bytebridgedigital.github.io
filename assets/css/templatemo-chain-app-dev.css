@@ -1202,17 +1202,17 @@ The Clients
 .menu .thumb span.date {
   display: inline-block;
   margin-top: 0px;
-  color: #212529;
+  color: #afafaf;
 }
 
 .menu .thumb span.category,
 .menu .thumb span.rating {
   font-weight: 700;
-  color: #212529;
+  color: #afafaf;
 }
 
 .menu .thumb i {
-  color: #212529;
+  color: #afafaf;
 }
 
 .the-clients .naccs .menu div {
@@ -1400,7 +1400,7 @@ The Clients
 }
 
 .pricing-item-regular ul li.non-function {
-  color: #212529;
+  color: #afafaf;
   text-decoration: line-through;
 }
 
@@ -1477,7 +1477,7 @@ The Clients
 }
 
 .pricing-item-pro ul li.non-function {
-  color: #212529;
+  color: #afafaf;
   text-decoration: line-through;
 }
 
@@ -1536,7 +1536,7 @@ Free Quote
   width: 100%;
   margin-top: 20px;
   margin-left: 30px;
-  color: #212529;
+  color: #afafaf;
   font-weight: 400;
   font-size: 15px;
   height: 40px;
@@ -1829,7 +1829,7 @@ a.btn_red {
 }
 
 .centeredText {
-  color: #212529;
+  color: #afafaf;
   text-align: center;
   margin: 20px 0;
   clear: both;
@@ -1838,7 +1838,7 @@ a.btn_red {
 }
 
 .user_login label {
-  color: #212529;
+  color: #afafaf;
 }
 
 .action_btns {
@@ -1903,7 +1903,7 @@ a.btn_red {
 }
 
 .user_register label {
-  color: #212529;
+  color: #afafaf;
   display: block;
   margin-bottom: 5px;
 }
@@ -1927,7 +1927,7 @@ a.btn_red {
 
 .user_register input[type="checkbox"]+label {
   float: left;
-  color: #212529;
+  color: #afafaf;
 }
 
 .user_register .checkbox {
@@ -2110,7 +2110,7 @@ responsive
   }
   footer #search input {
     border: 1px solid #eee;
-    color: #212529;
+    color: #afafaf;
     background-color: #fff;
     border-radius: 23px;
     margin-bottom: 15px;
@@ -2258,7 +2258,7 @@ contact
 
 .contact-us .contact-info ul li a {
   font-size: 15px;
-  color: #212529;
+  color: #afafaf;
   transition: all .5s;
 }
 
