@@ -2221,6 +2221,9 @@ responsive
     padding: 30px;
   }
   */
+  .contact-us .contact-info ul li a {
+    max-width: 100px; /* Adjust the maximum width for mobile */
+  }
   
   
 }
